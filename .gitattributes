@@ -1,0 +1,4 @@
+syft-binary filter=lfs diff=lfs merge=lfs -text
+syft-cli filter=lfs diff=lfs merge=lfs -text
+syft-runtime filter=lfs diff=lfs merge=lfs -text
+syft/syft filter=lfs diff=lfs merge=lfs -text

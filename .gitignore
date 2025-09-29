@@ -1,0 +1,22 @@
+# Binaries
+syft
+syft-cli
+syft-binary
+syft-runtime
+
+# Go build cache
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
